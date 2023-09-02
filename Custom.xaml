@@ -1,0 +1,15 @@
+<local:MyHint Text="Fetarute 21st Client, Version:2023.09 Release" Margin="0,0,0,7" IsWarn="False"/>
+
+<local:MyCard Title="What's new?" Margin="0,0,0,15" CanSwap="True" IsSwaped="True">
+    <StackPanel Margin="25,40,23,15">
+        <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
+                   Text="1. 升级至1.20.1" />
+    </StackPanel>
+</local:MyCard>
+
+<local:MyCard Title="传送门" Margin="0,0,0,15" CanSwap="True" IsSwaped="True">
+    <StackPanel Margin="10,40,10,15">
+      <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
+                   Text="这里还什么都没有呢..." />
+    </StackPanel>
+</local:MyCard>
